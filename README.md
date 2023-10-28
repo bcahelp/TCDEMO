@@ -1,2 +1,3 @@
 # tcdemo
 demo
+test only
